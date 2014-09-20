@@ -1,0 +1,52 @@
+Choice		Action
+------		------
+A		Add Student
+C		Compute Tuition
+D		Count Certain Students
+L		List Students
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+Please enter a student information to add:
+What action would you like to perform?
+tuition computed
+What action would you like to perform?
+
+OnCampus Student:
+NonResident Status
+Firstname:		Barack
+Lastname:		Obama
+StudentID:		200005
+Credits:		8
+Rate:			$400.00
+Tuition:		$2,812.00
+Student Program Fee:	$12.00
+
+What action would you like to perform?
+Please enter a student information to add:
+What action would you like to perform?
+tuition computed
+What action would you like to perform?
+
+OnCampus Student:
+NonResident Status
+Firstname:		Barack
+Lastname:		Obama
+StudentID:		200005
+Credits:		8
+Rate:			$400.00
+Tuition:		$2,812.00
+Student Program Fee:	$12.00
+
+
+Online Student:
+Firstname:		Bill
+Lastname:		Clinton
+StudentID:		000002
+Credits:		6
+Rate:			$450.00
+Tuition:		$2,760.00
+Computing Fee:		$10.00
+
+What action would you like to perform?
