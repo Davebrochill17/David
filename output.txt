@@ -15,9 +15,9 @@ What action would you like to perform?
 
 OnCampus Student:
 Resident Status
-First name:		Barack
-Last name:		Obama
-Student ID:		200005
+Firstname:		Barack
+Lastname:		Obama
+StudentID:		200005
 Credits:		8
 Rate:			$400.00
 Tuition:		$2,812.00
@@ -31,9 +31,9 @@ What action would you like to perform?
 
 OnCampus Student:
 Resident Status
-First name:		Barack
-Last name:		Obama
-Student ID:		200005
+Firstname:		Barack
+Lastname:		Obama
+StudentID:		200005
 Credits:		8
 Rate:			$400.00
 Tuition:		$2,812.00
@@ -41,9 +41,9 @@ Student Program Fee:	$12.00
 
 
 Online Student:
-First name:		Bill
-Last name:		Clinton
-Student ID:		000002
+Firstname:		Bill
+Lastname:		Clinton
+StudentID:		000002
 Credits:		6
 Rate:			$450.00
 Tuition:		$2,760.00
